@@ -1,2 +1,0 @@
-IMAGE_NAME=ghcr.io/wfg/caddy-cloudflare
-CADDY_VERSION=2.7
